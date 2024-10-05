@@ -1,0 +1,4 @@
+Flask
+openai
+requests
+# 기타 필요한 라이브러리
